@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "eleventy --serve --input site",
     "build": "eleventy --input site",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d _site"
   },
   "author": "",
   "license": "ISC",
