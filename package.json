@@ -1,0 +1,17 @@
+{
+  "name": "dearjoepleasedropout.com",
+  "version": "1.0.0",
+  "description": "A website asking Joe Biden to drop out",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve --input site",
+    "build": "eleventy --input site",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "gh-pages": "^2.2.0"
+  }
+}
