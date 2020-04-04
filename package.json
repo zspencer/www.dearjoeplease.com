@@ -1,7 +1,7 @@
 {
-  "name": "dearjoepleasedropout.com",
+  "name": "www.dearjoeplease.com",
   "version": "1.0.0",
-  "description": "A website asking Joe Biden to drop out",
+  "description": "Specific, direct requests to the Democratic Primary forerunner, Joe Biden",
   "main": "index.js",
   "scripts": {
     "dev": "eleventy --serve --input site",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "tailwindcss": "^1.2.0"
   }
 }
