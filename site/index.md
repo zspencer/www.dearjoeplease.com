@@ -42,19 +42,19 @@ And as our nation grapples with an illness whose short and long term impact is
 beyond comprehension; I fear that our Government, the Democratic Party, and (by
 extension) you are making the same mistake.
 
-Over the last fifty years, everything has changed.
+## Everything has changed.
 
-The rise of automation through computers and robotics fueled productivity gains
-on par with agriculture and the printing press. These gains were predominantly
-distributed not to everyday Americans and an ever-shrinking middle-class, but to
-investors and corporate executives.
+Over the last fifty years we have seen the rise of automation. Computers and
+robotics fuel productivity gains on par or exceeding the inventions of
+agriculture and the printing press. These gains were predominantly distributed
+not to everyday Americans, but to investors and corporate executives.
 
-Over the last twenty years, we have survived two massive economic crashes and an
+Over the last twenty years we have survived two massive economic crashes and an
 unceasing, six trillion dollar war that ravages nations and claims hundreds of
 thousands of lives.
 
-And today we poised on brink of devastation, as COVID-19 wipes away hundreds of
-thousands of lives in months.
+Today we huddle poised on the brink of devastation, as COVID-19 wipes away tens,
+if not hundreds, of thousands of lives in a matter of months.
 
 It is easy to give in to despair. But I am an American and a Midwesterner. I'm
 stubborn. I'm idealistic. And I'm unwilling to give up when I can still choose
