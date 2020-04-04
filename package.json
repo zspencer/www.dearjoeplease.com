@@ -8,11 +8,13 @@
     "build": "eleventy --input site",
     "deploy": "gh-pages -d _site"
   },
-  "author": "",
+  "author": "Zee Spencer <zee@zeespencer.com>",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "cssnano": "^4.1.10",
     "gh-pages": "^2.2.0",
+    "postcss": "^7.0.27",
     "tailwindcss": "^1.2.0"
   }
 }

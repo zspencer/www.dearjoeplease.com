@@ -1,0 +1,36 @@
+@tailwind base;
+
+@tailwind components;
+
+body {
+  @apply bg-purple-900 text-purple-100 max-w-lg justify-center m-auto;
+}
+
+h1, h2 {
+  @apply mt-2;
+}
+
+h1, h2, p, li {
+  @apply p-2;
+}
+
+h1 {
+  @apply text-4xl
+}
+h2 {
+  @apply text-3xl
+}
+
+p, li {
+  @apply text-xl;
+}
+
+a {
+  @apply underline
+}
+
+
+blockquote {
+  @apply m-2 bg-purple-800 rounded;
+}
+@tailwind utilities;
