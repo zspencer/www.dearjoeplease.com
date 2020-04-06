@@ -139,11 +139,11 @@ refuse to allow greedy people to use their power to abuse the public trust,
 enrich themselves, and extract wealth from their neighbors, workers and
 customers.
 
-## Show us you will help us.
+## Please, help us.
 
 We make the following pleas:
 
-Make consistent, strong and clear statements about how you will guarantee access
+Make consistent, strong, and clear statements about how you will guarantee access
 to shelter, food, healthcare, and education for all Americans.
 
 Produce and distribute clear, well-researched, and direct plans for how you will
