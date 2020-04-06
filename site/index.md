@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: "Dear Joe, Please..."
+title: "Dear Joe Biden,"
 ---
 
 You do not know me, and all I know of you is what I have seen through your
