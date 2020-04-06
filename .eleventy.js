@@ -4,5 +4,6 @@ module.exports = function(eleventyConfig) {
     "11ty.js"
   ]);
 
-  eleventyConfig.addPassthroughCopy("CNAME");
+  eleventyConfig.addPassthroughCopy("site/CNAME");
+  eleventyConfig.addPassthroughCopy("site/images");
 };

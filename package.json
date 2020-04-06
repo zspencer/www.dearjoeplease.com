@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "eleventy --serve --input site",
+    "prebuild": "rimraf _site",
     "build": "eleventy --input site",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d _site"
   },
   "author": "Zee Spencer <zee@zeespencer.com>",
@@ -15,6 +17,7 @@
     "cssnano": "^4.1.10",
     "gh-pages": "^2.2.0",
     "postcss": "^7.0.27",
+    "rimraf": "^3.0.2",
     "tailwindcss": "^1.2.0"
   }
 }
