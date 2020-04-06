@@ -164,6 +164,8 @@ Zee Spencer, 94609
 
 ## Cosigned
 
+- [Vikram Rojo, 80904](https://twitter.com/atav1k/status/1247185259415793667?s=20)
+
 [#DearJoePlease] was published on April 4th, 2020, if you agree with this
 message, please join me in calling for Joe to take a public stance that he will
 do the work to address inequality in America in a safe, well-thought out way
